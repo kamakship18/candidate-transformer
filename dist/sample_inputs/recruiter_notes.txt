@@ -1,0 +1,5 @@
+Spoke with Arjun on June 15. Strong communicator, very clear on distributed systems.
+Mentioned interest in ML/AI infrastructure — seemed genuine.
+Has worked with Kafka and Redis in production but not on resume.
+Might be open to relocation. Salary expectation around 25-30 LPA.
+GitHub: github.com/arjunsharma — has some open source contributions.

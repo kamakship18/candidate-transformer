@@ -1,0 +1,19 @@
+Karthik Reddy
+karthik.reddy@gmail.com
+9876600001
+Chennai, India
+
+PROFILE
+Software professional with experience in backend systems.
+
+EXPERIENCE
+Zoho - Principal Engineer
+January 2022 - Present
+Leading backend architecture decisions for the CRM product suite.
+
+EDUCATION
+Anna University - B.E. Computer Science
+2018
+
+SKILLS
+Java, Microservices, Kafka, System Design

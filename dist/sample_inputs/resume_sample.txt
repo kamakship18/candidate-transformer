@@ -1,0 +1,10 @@
+Arjun Sharma
+Senior Backend Engineer
+
+arjun.sharma@gmail.com | +91 98765 43210 | Bengaluru, India
+
+Summary
+Backend engineer with distributed systems experience.
+
+Skills
+Java, Python, Kafka, Redis, Spring Boot, AWS

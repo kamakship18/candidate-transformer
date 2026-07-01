@@ -1,0 +1,7 @@
+candidate_ref,name,email,phone,current_company,title,years_experience,resume_path,recruiter_note
+E001,Karthik Reddy,karthik.reddy@gmail.com,9876600001,Zoho,Senior Engineer,6,resumes/karthik_reddy.txt,"Candidate confirmed title is actually Staff Engineer, not Senior Engineer - recruiter call notes 2026-05-01"
+E002,Sunita Rao,sunita.rao@gmail.com,9876600002,Practo,Product Manager,5,resumes/sunita_rao.txt,
+E003,Imran Patel,imran.patel@gmail.com,9876600003,Ola,Operations Lead,4,resumes/imran_patel.txt,
+E004,Bhavna Iyer,bhavna.iyer@gmail.com,NULL,Persistent Systems,QA Manager,7,resumes/bhavna_iyer.txt,
+E005,Deepak Nair,deepak.nair@gmail.com,9876600005,Tech Mahindra,Lead Consultant,8,resumes/deepak_nair.txt,
+E006,Lakshmi Menon,lakshmi.menon@gmail.com,9876600006,Justdial,Senior Analyst,6,resumes/lakshmi_menon.txt,

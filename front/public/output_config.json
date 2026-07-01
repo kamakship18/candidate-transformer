@@ -1,0 +1,20 @@
+{
+  "merge_policy": "csv_resume_agreement",
+  "min_field_confidence": 0.75,
+  "fields": [
+    { "path": "candidate_id", "type": "string", "include": true },
+    { "path": "full_name", "type": "string", "include": true },
+    { "path": "emails", "type": "string[]", "include": true },
+    { "path": "phones", "type": "string[]", "include": true, "normalize": "E164" },
+    { "path": "location", "type": "object", "include": true },
+    { "path": "headline", "type": "string", "include": true },
+    { "path": "years_experience", "type": "number", "include": true },
+    { "path": "skills", "type": "object", "include": true },
+    { "path": "experience", "type": "object", "include": true },
+    { "path": "education", "type": "object", "include": true },
+    { "path": "links", "type": "object", "include": false }
+  ],
+  "include_confidence": true,
+  "include_provenance": true,
+  "on_missing": "omit"
+}

@@ -1,0 +1,14 @@
+export const SAMPLE_RESUME = `Arjun Sharma
+Senior Backend Engineer
+
+arjun.sharma@gmail.com | +91 98765 43210 | Bengaluru, India
+
+Summary
+Backend engineer with distributed systems experience.
+
+Skills
+Java, Python, Kafka, Redis, Spring Boot, AWS
+
+Education
+National Institute of Technology, Trichy | B.Tech | Computer Science | 2018
+`;

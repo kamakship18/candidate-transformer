@@ -1,0 +1,19 @@
+Bhavna Iyer
+bhavna.iyer@gmail.com
++91 9876655555
+Pune, India
+
+PROFILE
+QA Manager with experience leading test automation initiatives.
+
+EXPERIENCE
+Persistent Systems - QA Manager
+February 2019 - Present
+Leading a team of 12 QA engineers across automation and manual testing.
+
+EDUCATION
+Pune University - B.E. Computer Science
+2018
+
+SKILLS
+Test Automation, Selenium, JIRA, Team Leadership, Quality Processes

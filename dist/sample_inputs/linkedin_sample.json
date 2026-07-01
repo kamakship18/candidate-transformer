@@ -1,0 +1,31 @@
+{
+  "firstName": "Arjun",
+  "lastName": "Sharma",
+  "headline": "Senior Backend Engineer | Distributed Systems | Cloud",
+  "location": { "city": "Bengaluru", "country": "India" },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Infosys",
+      "startDate": { "year": 2021, "month": 6 },
+      "endDate": null,
+      "description": "Leading backend architecture for a fintech platform"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Wipro",
+      "startDate": { "year": 2018, "month": 8 },
+      "endDate": { "year": 2021, "month": 5 },
+      "description": "Full-stack development on insurance platform"
+    }
+  ],
+  "educations": [
+    {
+      "schoolName": "National Institute of Technology, Trichy",
+      "degreeName": "B.Tech",
+      "fieldOfStudy": "Computer Science",
+      "endDate": { "year": 2018 }
+    }
+  ],
+  "skills": ["Java", "Python", "Kubernetes", "AWS", "Spring Boot", "React", "PostgreSQL"]
+}
